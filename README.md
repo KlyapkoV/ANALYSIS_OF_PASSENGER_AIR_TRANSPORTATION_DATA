@@ -16,5 +16,5 @@
 &nbsp;
 # _ФАЙЛЫ ПРОЕКТА_:
 
-## [SQL-скрипт выполнения технического задания](https://github.com/KlyapkoV/ANALYSIS_OF_PASSENGER_AIR_TRANSPORTATION_DATA/blob/main/script.sql)
-## [Описание базы данных](https://github.com/KlyapkoV/ANALYSIS_OF_PASSENGER_AIR_TRANSPORTATION_DATA/blob/main/description_database.pdf)
+- ## [SQL-скрипт выполнения технического задания](https://github.com/KlyapkoV/ANALYSIS_OF_PASSENGER_AIR_TRANSPORTATION_DATA/blob/main/script.sql)
+- ## [Описание базы данных](https://github.com/KlyapkoV/ANALYSIS_OF_PASSENGER_AIR_TRANSPORTATION_DATA/blob/main/description_database.pdf)
